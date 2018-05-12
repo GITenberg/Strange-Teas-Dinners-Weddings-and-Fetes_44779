@@ -1,0 +1,29 @@
+_repo: Strange-Teas-Dinners-Weddings-and-Fetes_44779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44779-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs'
+- !lcc 'GT'
+tableOfContents: My tea to Mehemet Ali and Fareedie -- A Japanese dinner -- A Roman
+  Christmas -- Sylvester-Abend -- A Coptic wedding -- In the Bois de Boulogne -- An
+  Arab dinner-party -- A birthday party in the West Indies -- A Siamese hair-cutting
+  -- Old English harvest customs -- Easter at Jerusalem -- The Moqui snake-dance.
+title: Strange Teas, Dinners, Weddings and Fetes
+url: http://www.gutenberg.org/ebooks/44779
